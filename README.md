@@ -1,4 +1,4 @@
-Hi 👋 My name is Luke Dunkley
+Hi I'm Luke
 =============================
 
 Senior Modelling and Forecasting Analyst / Data Scientist
