@@ -4,7 +4,7 @@ Hi I'm Luke
 Senior Modelling and Forecasting Analyst / Data Scientist
 ---------------------------------------------------------
 
-I am a Senior Modelling and Forecasting Analyst at HMCTS (Ministry of Justice). I practice data science, advanced data analytics and machine learning. I am currently a postgraduate student at the University of Kent studying an Operational Research Specialist Level 7 Apprenticeship, culminating in MSc Business Analytics. I specialise in optimisation modelling, demand projections, simulation modelling and statistical analyses such as propensity score matching. Most of what I do can't be shared publicly but some of my personal and university projects can be. They are linked below.
+I am a Senior Modelling and Forecasting Analyst at HMCTS (Ministry of Justice). I practice data science, advanced data analytics and machine learning. I am a postgraduate student at the University of Kent studying an Operational Research Specialist Level 7 Apprenticeship, culminating in MSc Business Analytics. I specialise in optimisation modelling, demand projections, simulation modelling and statistical analyses such as propensity score matching. Most of what I do can't be shared publicly, but some of my personal and university projects can be. They are linked below.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [lukep.dunkley@gmail.com](mailto:lukep.dunkley@gmail.com)
