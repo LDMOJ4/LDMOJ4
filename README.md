@@ -25,7 +25,7 @@ I am a Senior Modelling and Forecasting Analyst at HMCTS (Ministry of Justice). 
 
 #### 🏥 Hospital Simulation Modelling
 **Discrete-event simulation of hospital pathways to support capacity planning and policy analysis.**  
-*R · SimPy · Operational Research*
+*Simul8 · Simulation Modelling · Operational Research*
 
 🔗 https://github.com/LDMOJ4/Hospital-Simulation-Modelling
 
