@@ -23,22 +23,19 @@ I am a Senior Modelling and Forecasting Analyst at HMCTS (Ministry of Justice). 
 ### My Work
 <b>Top Repositories</b>
 
-<p align="right">
-  <a href="https://github.com/LDMOJ4/Hospital-Simulation-Modelling">
-    <img
-      src="images/hospital-sim-card.png"
-      alt="Hospital Simulation Modelling repo card"
-      width="45%"
-    />
-  </a>
-  <a href="https://github.com/LDMOJ4/extreme-rainfall-sahel">
-    <img
-      src="images/sahel-rain-card.png"
-      alt="Extreme rainfall in the Sahel repo card"
-      width="45%"
-    />
-  </a>
-</p>
+#### 🏥 Hospital Simulation Modelling
+**Discrete-event simulation of hospital pathways to support capacity planning and policy analysis.**  
+*R · SimPy · Operational Research*
+
+🔗 https://github.com/LDMOJ4/Hospital-Simulation-Modelling
+
+---
+
+#### 🌧️ Extreme Rainfall in the Sahel
+**Statistical analysis of extreme rainfall events in the Sahel region, with a focus on climate variability and risk.**  
+*Python · Climate data · Extreme value theory*
+
+🔗 https://github.com/LDMOJ4/extreme-rainfall-sahel
 
 ### Socials
 <p align="left"> <a href="https://www.github.com/LDMOJ4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/luke-dunkley-6604821b0/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
