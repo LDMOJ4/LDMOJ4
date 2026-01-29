@@ -23,17 +23,17 @@ I am a Senior Modelling and Forecasting Analyst at HMCTS (Ministry of Justice). 
 ### My Work
 <b>Top Repositories</b>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/LDMOJ4/Hospital-Simulation-Modelling">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LDMOJ4&repo=Hospital-Simulation-Modelling&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      src="images/hospital-sim-card.png"
       alt="Hospital Simulation Modelling repo card"
       width="45%"
     />
   </a>
   <a href="https://github.com/LDMOJ4/extreme-rainfall-sahel">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LDMOJ4&repo=extreme-rainfall-sahel&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      src="images/sahel-rain-card.png"
       alt="Extreme rainfall in the Sahel repo card"
       width="45%"
     />
