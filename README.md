@@ -21,7 +21,6 @@ I am a Senior Modelling and Forecasting Analyst at HMCTS (Ministry of Justice). 
 - Contributing editor to GORS LinkedIn with posts about [probablistic data linkage](https://www.linkedin.com/feed/update/urn:li:activity:7406733043551334400/) and the [history of Operational Research](https://www.linkedin.com/feed/update/urn:li:activity:7402301099858108416/).
 
 ### My Work
-<b>Top Repositories</b>
 
 #### 🏥 Hospital Simulation Modelling
 **Discrete-event simulation of hospital pathways to support capacity planning and policy analysis.**  
