@@ -24,9 +24,17 @@ I am a Senior Data Scientist at the Home Office. I practice data science, advanc
 
 #### 📈 Sentiment Signals for Systematic Trading
 **Evaluating sentiment signals as predictors of alpha in systematic trading strategies.**  
-*Python · LLM Sentiment Extraction · Financial Signal*
+*Systematic trading · LLM Sentiment Extraction · Financial Signals*
 
 🔗 https://github.com/LDMOJ4/LLM-Alpha-Forecasting
+
+---
+
+#### 🏦 Predicting credit defaults (bankrupcy)
+**Predicting whether a company would go bankrupt using classification tools such as logistic regression and explainable boosting machines.**  
+*Logistic Regression · Explainable Boosting Machines · Financial Datasets*
+
+🔗 https://github.com/LDMOJ4/Bankruptcy-Default-Prediction
 
 ---
 
