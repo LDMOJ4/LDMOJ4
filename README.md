@@ -30,7 +30,7 @@ I am a Senior Data Scientist at the Home Office. I practice data science, advanc
 
 ---
 
-#### 🏦 Predicting credit defaults (bankrupcy)
+#### 🏦 Predicting Credit Defaults (Bankrupcy)
 **Predicting whether a company would go bankrupt using classification tools such as logistic regression and explainable boosting machines.**  
 *Logistic Regression · Explainable Boosting Machines · Financial Datasets*
 
