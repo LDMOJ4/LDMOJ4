@@ -22,7 +22,7 @@ I am a Senior Data Scientist at the Home Office. I practice data science, advanc
 
 ### My Work
 
-#### LLM Alpha Forecasting
+#### 📈 LLM Alpha Forecasting
 **Investigating the importance of snetiment in identifying alpha in trading startaegies.**  
 *Python · LLM Sentiment Extraction · Financial Signal*
 
