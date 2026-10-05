@@ -6,9 +6,9 @@ Senior Data Scientist
 
 I am a Senior Data Scientist at the Home Office. I practice data science, advanced data analytics and machine learning. I am a postgraduate student at the University of Kent studying an Operational Research Specialist Level 7 Apprenticeship, culminating in MSc Business Analytics. I specialise in optimisation modelling, demand projections, simulation modelling and statistical analyses such as propensity score matching. Most of what I do can't be shared publicly, but some of my personal and university projects can be. They are linked below.
 
-* 🌍  I'm based in London
+* 🌍  I'm based in London.
 * ✉️  You can contact me at [lukep.dunkley@gmail.com](mailto:lukep.dunkley@gmail.com)
-* 🧠  I'm currently learning how to reproduce analytical pipelines using Airflow.
+* 🧠  I'm currently learning how to build graph RAG systems that can be evaluated.
 * ⭐  I'm working on building signal based trading algorithms.
 
 <p align="left">
@@ -26,7 +26,7 @@ I am a Senior Data Scientist at the Home Office. I practice data science, advanc
 **Investigating the importance of snetiment in identifying alpha in trading startaegies.**  
 *Python · LLM Sentiment Extraction · Financial Signal*
 
-🔗 [https://github.com/LDMOJ4/Hospital-Simulation-Modelling](https://github.com/LDMOJ4/LLM-Alpha-Forecasting)
+🔗 https://github.com/LDMOJ4/LLM-Alpha-Forecasting
 
 ---
 
