@@ -22,8 +22,8 @@ I am a Senior Data Scientist at the Home Office. I practice data science, advanc
 
 ### My Work
 
-#### 📈 LLM Alpha Forecasting
-**Investigating the importance of snetiment in identifying alpha in trading startaegies.**  
+#### 📈 Sentiment Signals for Systematic Trading
+**Evaluating sentiment signals as predictors of alpha in systematic trading strategies.**  
 *Python · LLM Sentiment Extraction · Financial Signal*
 
 🔗 https://github.com/LDMOJ4/LLM-Alpha-Forecasting
