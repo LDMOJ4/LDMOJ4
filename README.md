@@ -22,6 +22,14 @@ I am a Senior Data Scientist at the Home Office. I practice data science, advanc
 
 ### My Work
 
+#### LLM Alpha Forecasting
+**Investigating the importance of snetiment in identifying alpha in trading startaegies.**  
+*Python · LLM Sentiment Extraction · Financial Signal*
+
+🔗 [https://github.com/LDMOJ4/Hospital-Simulation-Modelling](https://github.com/LDMOJ4/LLM-Alpha-Forecasting)
+
+---
+
 #### 🏥 Hospital Simulation Modelling
 **Discrete-event simulation of hospital pathways to support capacity planning and policy analysis.**  
 *Simul8 · Simulation Modelling · Operational Research*
